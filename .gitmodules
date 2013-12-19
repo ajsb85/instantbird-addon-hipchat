@@ -1,0 +1,9 @@
+[submodule "protocol"]
+	path = protocol
+	url = git@github.com:alexsalas/instantbird-protocol-hipchat.git
+[submodule "messagestyle"]
+	path = messagestyle
+	url = git@github.com:alexsalas/instantbird-messagestyle-hipchat.git
+[submodule "emoticons"]
+	path = emoticons
+	url = git@github.com:alexsalas/instantbird-emoticons-hipchat.git
