@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+   <Description about="urn:mozilla:install-manifest">
+      <!-- nsIUpdateItem type for a Multiple Item Package -->
+      <em:type>32</em:type>
+      <em:id>hipchat@alexandersalas.name</em:id>
+      <em:name>HipChat</em:name>
+      <em:version>1.0</em:version>
+      <em:creator>Alexander Salas</em:creator>
+      <em:description>HipChat for Instantbird makes it easy to have persistent group chats and IM with your coworkers.
+
+HipChat is a hosted IM and group chat service for companies and teams. No ads, obscure screen names, or failed file transfers. Collaborate in real-time with colleagues and clients in persistent chat rooms. Thousands of startups, small business, and virtual teams use HipChat every day.
+
+Don't have a HipChat account? Create one for free at HipChat.com.
+	  </em:description>
+      <em:homepageURL>http://alexandersalas.name/</em:homepageURL>
+      <em:targetApplication>
+         <Description>
+            <em:id>{33cb9019-c295-46dd-be21-8c4936574bee}</em:id>
+            <em:minVersion>0.2a1pre</em:minVersion>
+            <em:maxVersion>1.6</em:maxVersion>
+         </Description>
+      </em:targetApplication>
+   </Description>
+</RDF>
