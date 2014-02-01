@@ -15,3 +15,6 @@ git submodule -q foreach git pull -q origin master
 ```
 
 To keep update all repositories.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/alexsalas/instantbird-addon-hipchat/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
