@@ -18,3 +18,4 @@ To keep update all repositories.
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/alexsalas/instantbird-addon-hipchat/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+[![tip for next commit](http://tip4commit.com/projects/584.svg)](http://tip4commit.com/projects/584)
